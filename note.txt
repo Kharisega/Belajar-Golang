@@ -1,0 +1,14 @@
+Command - command dalam cls atau terminal untuk Bahasa Golang
+
+1. go version
+-> untuk mengecek apakah go sudah terinstall dan akan memberi output versi dari go
+
+2. mkdir nama_direktori
+-> untuk membuat folder atau direktori baru (perintah cmd atau command prompt)
+
+3. go mod init <nama-project>
+-> digunakan untuk inisialisasi projek pada GO (menggunakan GO Modules). Untuk nama projek bisa menggunakan apapun, tapi umumnya adalah disamakan dengan nama direktori. Nama projek ini penting karena nantinya berpengaruh pada import path sub packages yang ada dalam projek tersebut.
+
+4. go run <nama-file>
+-> digunakan untuk eksekusi file program (file berekstensi .go), hanya bisa digunakan pada file yang nama package-nya adalah main.
+

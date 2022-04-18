@@ -1,3 +1,0 @@
-Command - command dalam cls atau terminal untuk Bahasa Golang
-
-1. 

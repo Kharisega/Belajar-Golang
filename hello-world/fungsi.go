@@ -9,6 +9,6 @@ func coba() {
 }
 
 // ! cara memanggil function
-func main() {
+func mani() {
 	coba()
 }
