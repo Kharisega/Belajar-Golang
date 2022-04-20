@@ -12,3 +12,7 @@ Command - command dalam cls atau terminal untuk Bahasa Golang
 4. go run <nama-file>
 -> digunakan untuk eksekusi file program (file berekstensi .go), hanya bisa digunakan pada file yang nama package-nya adalah main.
 
+Method-method dalam Golang
+- len() => digunakan untuk menghitung jumlah array seperti count
+- \n dalam perintah print => digunakan untuk memberi enter ketika dijalankan
+- \t dalam perintah print => digunakan untuk memberi tab ketika dijalankan
